@@ -1,2 +1,1 @@
-2025-06-13 03:05:31,084 [INFO] Backup completed: devops-Backup/13-06-2025
-2025-06-13 03:05:31,086 [INFO] Compressed: devops-Backup/13-06-2025.zip
+2025-06-13 03:09:25,216 [ERROR] Failed to backup: [Errno 17] File exists: 'devops-Backup: 13-06-2025'
