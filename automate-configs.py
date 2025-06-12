@@ -3,7 +3,7 @@ import shutil
 from datetime import datetime
 
 
-source = '/home/rushi/devops/bash'
+source = '/home/rushi/devops/'
 dest = './config'
 
 shutil.copytree(source, dest)
